@@ -1,0 +1,26 @@
+setup function
+The setup function is a special function in the setuptools library that is used to define the metadata and dependencies of a Python package. It takes several keyword arguments to configure the package, including:
+
+name: The name of the package
+version: The version number of the package
+author and author_email: The author's name and email address
+packages: A list of packages to include in the distribution (usually found using find_packages())
+install_requires: A list of dependencies required by the package
+The setup function is typically called once in the setup.py file of a Python package, and is used to generate the package's metadata and distribution files.
+
+
+VIDEO 2:
+MODULAR CODING
+EXCEPTION HANDLING 
+    SYS LIBRARY PYTHON:  SYS MODULE IN PYTHON PROVIDES VARIOUS FUCTIONS AND VARIABLES THAT ARE USED TO MANIPULATE DIFFERENT PARTS OF THE PYTHON RUNTIME ENVIRONMENT.
+
+    EXCEPTION HANDLING DOCUMENTATION
+    CUSTOM XCEPTION HANDLING IN PYTHON
+
+    LOGGING IN PYTHON
+    
+    VIDEO 3:
+    EDA
+    MODEL TRAINING
+        38:57 : INSTALLING THE LIBRARIES
+        DO ALL THE EDA IN JUPITER NOTEBOOK
